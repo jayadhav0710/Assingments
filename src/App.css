@@ -1,0 +1,12 @@
+.App{
+  text-align: center;
+}
+.App p{
+  width: 80%;
+  margin: auto;
+  
+
+}
+#firstP{
+  line-height: 60px;
+}
